@@ -1,3 +1,3 @@
 # curso-git
 
-Texto que irá substituir
+Texto que irá ser substituido
