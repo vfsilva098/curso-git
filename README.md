@@ -1,3 +1,3 @@
 # curso-git
 
-Testo a ser modificado
+Texto a ser modificado
